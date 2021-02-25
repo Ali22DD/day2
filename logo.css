@@ -1,0 +1,10 @@
+.link {
+display: inline;
+}
+.col {
+display: flex;
+grid-column: span;
+}
+.logo {
+text-align: center;
+}
